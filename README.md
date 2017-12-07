@@ -14,3 +14,5 @@ To preview:
 5) Then in your prowser navigate to localhost:4000 to see the site.
 
 Refresh the site to see your changes.
+
+This is the website for carlton u hackathon of feb 2018
